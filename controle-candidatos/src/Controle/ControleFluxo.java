@@ -1,8 +1,8 @@
-package candidatura.Controle;
+package Controle;
 
 import java.util.Scanner;
 
-import candidatura.Controle.excecao.ParametrosInvalidosException;
+import Controle.excecao.ParametrosInvalidosException;
 
 public class ControleFluxo {
     public static void main(String[] args) {

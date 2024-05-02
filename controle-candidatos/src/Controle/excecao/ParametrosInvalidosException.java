@@ -1,4 +1,4 @@
-package candidatura.Controle.excecao;
+package Controle.excecao;
 
 public class ParametrosInvalidosException extends Exception{
     public ParametrosInvalidosException(){
